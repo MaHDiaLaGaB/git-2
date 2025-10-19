@@ -27,4 +27,5 @@ class Calculator:
     def power(self, x, y):
         """Calculate x to the power of y (** operation)."""
         # Homework: Implement this method
-        pass
+        return x ** y
+    
