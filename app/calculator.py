@@ -21,7 +21,10 @@ class Calculator:
     def divide(self, x, y):
         """Divide x by y."""
         # Homework: Implement this method
-        pass
+        if y == 0:
+            raise ValueError
+        return x / y
+            
     
     # TODO: Implement power operation as homework
     def power(self, x, y):
