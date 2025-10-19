@@ -7,6 +7,7 @@ class Calculator:
     
     # TODO: Implement subtraction as homework
     def subtract(self, x, y):
+        """Subtract y from x."""
         return x - y
         # Homework: Implement this method
     
