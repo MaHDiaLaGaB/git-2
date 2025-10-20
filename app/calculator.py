@@ -26,6 +26,6 @@ class Calculator:
     # TODO: Implement power operation as homework
     def power(self, x, y):
         """Calculate x to the power of y (** operation)."""
-        # Homework: Implement this method
+        
         return x ** y
     
