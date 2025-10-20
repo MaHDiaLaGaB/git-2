@@ -31,6 +31,4 @@ class Calculator:
         return x ** y
     
     def int_division(self, x, y):
-        """Calculate x to the power of y (** operation)."""
-        
         return x // y
