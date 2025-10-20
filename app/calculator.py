@@ -36,9 +36,9 @@ class Calculator:
         return x / y
             
 
-        def divided int (self, x, y):
-        """Divide x by y."""
-        if y == 0:
-            raise ValueError
-        return x // y
-            
+        def divided  (self, x, y):
+            """Divide x by y."""
+            if y == 0:
+                raise ValueError
+            return x // y
+                
