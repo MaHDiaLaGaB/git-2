@@ -30,3 +30,9 @@ class Calculator:
         
         return x ** y
     
+
+    def elmon(self, x, y):
+        """Divide x by y."""
+        if y == 0:
+            raise ValueError
+        return x // y
