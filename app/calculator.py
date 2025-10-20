@@ -14,7 +14,7 @@ class Calculator:
     # TODO: Implement multiplication as homework
     def multiply(self, x, y):
         """Multiply two numbers."""
-        # Homework: Implement this method
+      
         return x * y 
     
     # TODO: Implement division as homework
