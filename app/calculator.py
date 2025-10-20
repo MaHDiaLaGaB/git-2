@@ -17,10 +17,9 @@ class Calculator:
         # Homework: Implement this method
         pass
     
-    # TODO: Implement division as homework
+   
     def divide(self, x, y):
         """Divide x by y."""
-        # Homework: Implement this method
         if y == 0:
             raise ValueError
         return x / y
