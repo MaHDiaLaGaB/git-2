@@ -8,14 +8,13 @@ class Calculator:
     # TODO: Implement subtraction as homework
     def subtract(self, x, y):
         """Subtract y from x."""
-        # Homework: Implement this method
-        pass
+        return x - y
     
     # TODO: Implement multiplication as homework
     def multiply(self, x, y):
         """Multiply two numbers."""
-        # Homework: Implement this method
-        pass
+      
+        return x * y 
     
    
     def divide(self, x, y):
@@ -28,5 +27,6 @@ class Calculator:
     # TODO: Implement power operation as homework
     def power(self, x, y):
         """Calculate x to the power of y (** operation)."""
-        # Homework: Implement this method
-        pass
+        
+        return x ** y
+    
