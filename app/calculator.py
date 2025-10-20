@@ -30,3 +30,7 @@ class Calculator:
         
         return x ** y
     
+    def sqr(self, x):
+        """Calculate x to the power of y (** operation)."""
+        
+        return x ** 0.5
