@@ -29,4 +29,16 @@ class Calculator:
         """Calculate x to the power of y (** operation)."""
         
         return x ** y
-    
+     def divide(self, x, y):
+        """Divide x by y."""
+        if y == 0:
+            raise ValueError
+        return x / y
+            
+
+        def divided int (self, x, y):
+        """Divide x by y."""
+        if y == 0:
+            raise ValueError
+        return x // y
+            
